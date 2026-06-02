@@ -1,0 +1,1 @@
+(delete(x,"db3",y,data) AND (NOT data = "[unknown]")) AND (NOT ONCE[0,60) EXISTS u,v. delete(u,"db2",v,data))

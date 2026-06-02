@@ -1,0 +1,4 @@
+Trace, Policy, Signature
+Trace/trace.log: monpoly, Formula/formula_delete.mfotl: MFOTL, Signature/sig.sig
+Trace/trace.log: monpoly, Formula/formula_select.mfotl: MFOTL, Signature/sig.sig
+Trace/trace.log: monpoly, Formula/formula_insert.mfotl: MFOTL, Signature/sig.sig
